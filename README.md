@@ -28,7 +28,7 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
     <td align="center" valign="middle">
       <b>2. Leaderboard</b><br><br>
       Mostra as melhores pontuações registadas pelos utilizadores.<br><br>
-      <img src="assets/app/imagens/2.LeaderBoard.png" height="400">
+      <img src="assets/app/imagens/2.Leaderboard.png" height="400">
     </td>
   </tr>
 
@@ -160,3 +160,4 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
