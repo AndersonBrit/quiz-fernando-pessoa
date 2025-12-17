@@ -23,12 +23,12 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
     <td align="center" valign="middle">
       <b>1. Menu Principal</b><br>
       Interface inicial do quiz, onde o utilizador pode iniciar o jogo ou aceder ao leaderboard.<br><br>
-      <img src="assets/app/imagens/1.Menu.png" height="400" width="620">
+      <img src="assets/app/imagens/1.Menu.png" height="400" >
     </td>
     <td align="center" valign="middle">
       <b>2. Leaderboard</b><br><br>
       Mostra as melhores pontuações registadas pelos utilizadores.<br><br>
-      <img src="assets/app/imagens/2.LeaderBoard.png" height="400" width="620">
+      <img src="assets/app/imagens/2.LeaderBoard.png" height="400">
     </td>
   </tr>
 
@@ -36,12 +36,12 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
     <td align="center" valign="middle">
       <br><b>3. Criação de Utilizador</b><br>
       Permite criar um novo utilizador, inserindo o nome e a turma.<br><br>
-      <img src="assets/app/imagens/3.Criação_Utilizador.png" height="400" width="620">
+      <img src="assets/app/imagens/3.Criação_Utilizador.png" height="400">
     </td>
     <td align="center" valign="middle">
       <br><b>4. Criação de Utilizador Info</b><br>
       Confirmação do registo com os detalhes do utilizador preenchidos.<br><br>
-      <img src="assets/app/imagens/4.Criação_Utilizador_Info.png" height="400" width="620">
+      <img src="assets/app/imagens/4.Criação_Utilizador_Info.png" height="400">
     </td>
   </tr>
 
@@ -49,12 +49,12 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
     <td align="center" valign="middle">
       <br><b>5. Perguntas e Respostas</b><br>
       Apresenta uma pergunta com múltiplas opções de resposta ao utilizador.<br><br>
-      <img src="assets/app/imagens/5.Perguntas_Respostas.png" height="400" width="620">
+      <img src="assets/app/imagens/5.Perguntas_Respostas.png" height="400">
     </td>
     <td align="center" valign="middle">
       <br><b>6. Perguntas Respondidas</b><br><br>
       Mostra as respostas já selecionadas pelo utilizador durante o quiz.<br><br>
-      <img src="assets/app/imagens/6.Perguntas_Respondidas.png" height="400" width="620">
+      <img src="assets/app/imagens/6.Perguntas_Respondidas.png" height="400">
     </td>
   </tr>
 
@@ -62,7 +62,7 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
     <td colspan="2" align="center">
       <br><b>7. Fim de Jogo</b><br>
       Apresenta a pontuação final do utilizador após completar o quiz.<br><br>
-      <img src="assets/app/imagens/7.Fim_Jogo.png" height="400" width="">
+      <img src="assets/app/imagens/7.Fim_Jogo.png" height="400">
     </td>
   </tr>
 </table>
