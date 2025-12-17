@@ -4,11 +4,15 @@
   <img src="assets/app/imagens/8.Titulo.png" alt="Banner" width="600">
 </p>
 
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-![MySQL](https://img.shields.io/badge/mysql-5.7+-green)
-![Pygame](https://img.shields.io/badge/pygame-2.2+-orange)
-![Status](https://img.shields.io/badge/status-completo-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue">
+  <img src="https://img.shields.io/badge/mysql-5.7+-green">
+  <img src="https://img.shields.io/badge/pygame-2.2+-orange">
+  <img src="https://img.shields.io/badge/status-completo-brightgreen">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  </a>
+</p>
 
 
 ## Descrição
@@ -52,7 +56,7 @@ Projeto educativo de um quiz sobre Fernando Pessoa, desenvolvido em Python com i
       <img src="assets/app/imagens/5.Perguntas_Respostas.png" height="400">
     </td>
     <td align="center" valign="middle">
-      <br><b>6. Perguntas Respondidas</b><br><br>
+      <br><b>6. Perguntas Respondidas</b><br>
       Mostra as respostas já selecionadas pelo utilizador durante o quiz.<br><br>
       <img src="assets/app/imagens/6.Perguntas_Respondidas.png" height="400">
     </td>
@@ -160,4 +164,3 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
-
