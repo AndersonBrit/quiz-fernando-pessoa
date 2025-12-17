@@ -1,4 +1,4 @@
-# Quiz Fernando Pessoa (Pygame + MySQL)
+<h1 align="center">Quiz Fernando Pessoa (Pygame + MySQL)</h1>
 
 <p align="center">
   <img src="assets/app/imagens/8.Titulo.png" alt="Banner" width="600">
@@ -164,3 +164,4 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
