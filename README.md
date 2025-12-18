@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/mysql-5.7+-green">
   <img src="https://img.shields.io/badge/pygame-2.2+-orange">
   <img src="https://img.shields.io/badge/status-completo-brightgreen">
+  <img src="https://img.shields.io/badge/project-academic-informational">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
@@ -164,4 +165,5 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
 
