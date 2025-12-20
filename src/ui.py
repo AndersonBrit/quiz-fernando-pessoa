@@ -1,4 +1,3 @@
-# ui.py
 import pygame
 from config import COL_CARD, COL_TEXT  # Importa cores definidas no ficheiro de configuração
 
@@ -74,4 +73,3 @@ def wrap_text(text, font, max_width):
 # Desenha um retângulo com bordas arredondadas (tipo "card")
 def draw_card(surface, rect, color=COL_CARD):
     pygame.draw.rect(surface, color, rect, border_radius=12)
-
