@@ -94,8 +94,8 @@ docs/Relatorio.docx
 # ==================================================
 # Media / large files
 # ==================================================
-media/app/videos/
-media/db/videos/
+media/app/videos/*
+media/db/videos/*
 
 # ==================================================
 # Local databases
